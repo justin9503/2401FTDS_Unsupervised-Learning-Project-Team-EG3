@@ -46,6 +46,11 @@ Develop a user-friendly web application using Streamlit to allow users to intera
 Deploy the web application on a cloud platform to ensure scalability, reliability, and ease of access for users.
 Implement continuous integration and continuous deployment (CI/CD) pipelines to automate the build, test, and deployment processes.
 
+Impact:
+This anime recommendation system aims to streamline the content discovery process for anime fans, reducing the time spent searching for new series and increasing user engagement. By delivering personalized recommendations, the system can enhance user satisfaction and contribute to the growth of the anime community.
+
+With the successful implementation of this project, users will have access to a powerful tool that not only enriches their viewing experience but also introduces them to a diverse range of anime content they might otherwise miss.
+
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 
 Data Overview:
@@ -72,7 +77,15 @@ To carry out all the objectives for this repo, the following necessary dependenc
 - Deployment: Streamlit, AWS
 
 ## 4. Environment <a class="anchor" id="environment"></a>
+
+It's highly recommended to use a virtual environment for ones projects, there are many ways to do this. Make sure to regularly update this section. This way, anyone who clones the repository will know exactly what steps to follow to prepare the necessary environment. 
+
 ## 5. MLFlow<a class="anchor" id="mlflow"></a>
+
+MLOps, which stands for Machine Learning Operations, is a practice focused on managing and streamlining the lifecycle of machine learning models. The modern MLOps tool, MLflow is designed to facilitate collaboration on data projects, enabling teams to track experiments, manage models, and streamline deployment processes. For experimentation, testing, and reproducibility of the machine learning models in this project, we will use MLflow. MLflow will help track hyperparameter tuning by logging and comparing different model configurations. This allows one to easily identify and select the best-performing model based on the logged metrics.
+
+- Please have a look here and follow the instructions: https://www.mlflow.org/docs/2.7.1/quickstart.html#quickstart
+
 ## 6. Streamlit<a class="anchor" id="streamlit"></a>
 
 ### What is Streamlit?
