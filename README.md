@@ -5,8 +5,7 @@
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*CQFeO97Ugh4g0-Yk?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
 
 <div id="main image" align="center">
-  <img src="https://github.com/justin9503/2401FTDS_Unsupervised-Learning-Project-Team-EG3/blob/main/anime.webp" width="550" height="300" alt=""/>
-</div>
+ 
 
 ## Table of contents
 * [1. Project Overview](#project-description)
