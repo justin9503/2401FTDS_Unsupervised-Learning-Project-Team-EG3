@@ -48,7 +48,8 @@ Implement continuous integration and continuous deployment (CI/CD) pipelines to 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 
-* Data Overview
+Data Overview:
+
 This dataset contains information on anime content (movies, television series, music, specials, OVA, and ONA*), split between a file related to the titles (anime.csv) and one related to user ratings of the titles (training.csv). The test.csv file will be used to create the rating predictions.
 
 *OVA: Original Video Animation - anime film / series made for release in home-video formats, ONA: Original Net Animation is an anime that is directly released onto the Internet.
