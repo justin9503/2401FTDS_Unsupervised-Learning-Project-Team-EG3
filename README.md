@@ -18,7 +18,7 @@
 
 In the era of digital streaming, the sheer volume of available anime content can be overwhelming for viewers seeking new series to watch. An anime recommendation system is designed to address this challenge by leveraging data science and machine learning techniques to provide personalized anime suggestions tailored to individual preferences. This project aims to develop an advanced recommendation system that enhances user experience by accurately predicting and suggesting anime series that users are likely to enjoy.
 
-* Objectives:
+Objectives:
 
 * Data Collection and Preprocessing:
 
