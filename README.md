@@ -55,7 +55,7 @@ This dataset contains information on anime content (movies, television series, m
 *OVA: Original Video Animation - anime film / series made for release in home-video formats, ONA: Original Net Animation is an anime that is directly released onto the Internet.
 You can find both the `train.csv` and `test.csv` datasets [here](https://www.kaggle.com/competitions/anime-recommender-system-project-2024/data).
 
-* Supplied files:
+Supplied files:
   
 - anime.csv: This file contains information about the anime content, including aspects such as the id, name, genre, type, number of episodes (if applicable), an average rating based on views, and the number of members in the anime 'group'.
 - train.csv:This file contains rating data, supplied by individual users for individual anime titles. It contains user_id information, the anime_id of the title watched, and the rating given (if applicable).
@@ -65,11 +65,11 @@ You can find both the `train.csv` and `test.csv` datasets [here](https://www.kag
 
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 
-Programming Languages: Python, JavaScript
-Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
-Data Processing: Pandas, NumPy
-Database: PostgreSQL, MongoDB
-Deployment: Streamlit, AWS
+- Programming Languages: Python, JavaScript
+- Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
+- Data Processing: Pandas, NumPy
+- Database: PostgreSQL, MongoDB
+- Deployment: Streamlit, AWS
 
 ## 4. Environment <a class="anchor" id="environment"></a>
 ## 5. MLFlow<a class="anchor" id="mlflow"></a>
