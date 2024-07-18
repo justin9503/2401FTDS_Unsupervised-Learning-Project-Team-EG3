@@ -1,8 +1,9 @@
 # 2401FTDS_Unsupervised-Learning-Project-Team-EG3
 
-# Anime Recommender Systems
-
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*CQFeO97Ugh4g0-Yk?style=for-the-badge&logo=Python&logoColor=white
+# Anime Recommender Systems<div id="main image" align="center">
+<div id="main image" align="center">
+  <img src="https://github.com/justin9503/2401FTDS_Unsupervised-Learning-Project-Team-EG3/blob/main/anime.webp" width="700" height="500" alt=""/>
+</div>
  
 ## Table of contents
 * [1. Project Overview](#project-description)
