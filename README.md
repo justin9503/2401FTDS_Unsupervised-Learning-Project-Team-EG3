@@ -112,9 +112,9 @@ For this repository, we are only concerned with a single file:
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Justin Ndivhuwo Tshifaro](https://github.com/justin9503)                                                | JustinNdivhuwoTshifar@gmail.com
-| [Mahlatse Hunadi Masemola](https://github.com/MahlatseMasemola)                                                                                  | MahlatseMasemola@gmail.com
+| [Justin Ndivhuwo Tshifaro](https://github.com/justin9503)                                                | Njtshifaro@gmail.com
+| [Mahlatse Hunadi Masemola](https://github.com/MahlatseMasemola)                                                                                  | masemola.hunadi@gmail.com
 | [Zwiitwaho Mugodo](https://github.com/ZweeteM)                                                                            | mugodozwiitwaho@gmail.com
 | [Mbalenhle Lenepa](https://github.com/Mbali0901's)                                                | lenepembali@gmail.com
-| [Lungile](https://github.com/LFBaloyi19)                                       | lungile@gmail.com
+| [Lungile Faith Baloyi](https://github.com/LFBaloyi19)                                       | lfbaloyi@gmail.com
 
