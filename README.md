@@ -2,7 +2,7 @@
 
 # Anime Recommender Systems<div id="main image" align="center">
 <div id="main image" align="center">
-  <img src="https://github.com/justin9503/2401FTDS_Unsupervised-Learning-Project-Team-EG3/blob/main/anime.webp" width="700" height="500" alt=""/>
+  <img src="https://github.com/justin9503/2401FTDS_Unsupervised-Learning-Project-Team-EG3/blob/main/girl-anime.jpg" width="700" height="500" alt=""/>
 </div>
  
 ## Table of contents
