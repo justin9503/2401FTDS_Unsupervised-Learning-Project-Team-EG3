@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/259531786379850466/d56d851ae71f4bf9ab689547e3602b07/artifacts
+end_time: 1722859783041
+entry_point_name: ''
+experiment_id: '259531786379850466'
+lifecycle_stage: active
+run_id: d56d851ae71f4bf9ab689547e3602b07
+run_name: Slope One
+run_uuid: d56d851ae71f4bf9ab689547e3602b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722859780989
+status: 3
+tags: []
+user_id: root

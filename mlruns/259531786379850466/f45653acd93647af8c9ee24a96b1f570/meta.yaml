@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/259531786379850466/f45653acd93647af8c9ee24a96b1f570/artifacts
+end_time: 1722859677312
+entry_point_name: ''
+experiment_id: '259531786379850466'
+lifecycle_stage: active
+run_id: f45653acd93647af8c9ee24a96b1f570
+run_name: NMF
+run_uuid: f45653acd93647af8c9ee24a96b1f570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722859673699
+status: 3
+tags: []
+user_id: root
