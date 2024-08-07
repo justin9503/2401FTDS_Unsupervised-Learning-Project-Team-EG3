@@ -10,7 +10,7 @@
 * [2. Dataset](#dataset)
 * [3. Packages](#packages)
 * [4. Environment](#environment)
-* [5. MLFlow](#mlflow)
+* [5. Surprise Library Models](#surprise-library)
 * [6. Streamlit](#streamlit)
 * [7. Team Members](#team-members)
 
@@ -70,21 +70,19 @@ Supplied files:
 
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 
-- Programming Languages: Python, JavaScript
-- Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
+- Programming Languages: Python
+- Machine Learning Libraries: Scikit-learn
 - Data Processing: Pandas, NumPy
-- Database: PostgreSQL, MongoDB
-- Deployment: Streamlit, AWS
+- Visualization: Matplotlib, Seaborn
+- Deployment: Streamlit
 
 ## 4. Environment <a class="anchor" id="environment"></a>
 
 It's highly recommended to use a virtual environment for ones projects, there are many ways to do this. Make sure to regularly update this section. This way, anyone who clones the repository will know exactly what steps to follow to prepare the necessary environment. 
 
-## 5. MLFlow<a class="anchor" id="mlflow"></a>
+## 5. Surprise Library Models <a class="anchor" id="mlflow"></a>
 
-MLOps, which stands for Machine Learning Operations, is a practice focused on managing and streamlining the lifecycle of machine learning models. The modern MLOps tool, MLflow is designed to facilitate collaboration on data projects, enabling teams to track experiments, manage models, and streamline deployment processes. For experimentation, testing, and reproducibility of the machine learning models in this project, we will use MLflow. MLflow will help track hyperparameter tuning by logging and comparing different model configurations. This allows one to easily identify and select the best-performing model based on the logged metrics.
-
-- Please have a look here and follow the instructions: https://www.mlflow.org/docs/2.7.1/quickstart.html#quickstart
+The Surprise library is a powerful Python scikit for building and analyzing recommender systems. It includes various algorithms for collaborative filtering, such as Singular Value Decomposition (SVD), Slope One, and Non-Negative Matrix Factorization (NMF). Surprise simplifies the process of working with recommendation data, providing built-in datasets and utilities for data loading, splitting, and evaluation. It also supports grid search for hyperparameter tuning and cross-validation, making it easier to develop and assess the performance of recommendation models. With its comprehensive suite of tools, Surprise is an excellent choice for developing accurate and efficient recommender systems.
 
 ## 6. Streamlit<a class="anchor" id="streamlit"></a>
 
